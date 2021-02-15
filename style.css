@@ -5,7 +5,7 @@
 }
 
 :root {
-  --primary-color: #000;
+  --primary-color: #063970;
   --secondary-color: #fff;
 }
 
@@ -15,11 +15,11 @@ html {
 
 html.dark {
   --primary-color: #fff;
-  --secondary-color: #333;
+  --secondary-color: #063970;
 }
 
 html.dark {
-  background-color: #111;
+  background-color: #063970;
   color: var(--primary-color);
 }
 
